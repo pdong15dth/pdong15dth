@@ -4,7 +4,7 @@
 <!-- ============================================ -->
 
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Header Banner" />
+  <img src="./assets/header.svg?v=2" width="100%" alt="Header Banner" />
 </p>
 
 <br/>
@@ -51,19 +51,25 @@ Flutter Developer @ **Dev Den** · Vietnam 🇻🇳. I care about clean architec
 
 <p align="center">
   <a href="https://github.com/pdong15dth/flutter_base_mvvm">
-    <img src="https://img.shields.io/badge/📱%20flutter__base__mvvm-0D1117?style=for-the-badge&logo=flutter&logoColor=00D9FF" alt="flutter_base_mvvm" />
+    <img src="https://img.shields.io/badge/flutter__base__mvvm-0D1117?style=for-the-badge&logo=flutter&logoColor=00D9FF" alt="flutter_base_mvvm" />
   </a>
-  &nbsp;
+</p>
+
+<p align="center">
   <a href="https://github.com/pdong15dth/d_once">
-    <img src="https://img.shields.io/badge/🚀%20d__once-0D1117?style=for-the-badge&logo=dart&logoColor=00D9FF" alt="d_once" />
+    <img src="https://img.shields.io/badge/d__once-0D1117?style=for-the-badge&logo=dart&logoColor=00D9FF" alt="d_once" />
   </a>
-  &nbsp;
+</p>
+
+<p align="center">
   <a href="https://github.com/pdong15dth/learn-reactjs">
-    <img src="https://img.shields.io/badge/⚛️%20learn--reactjs-0D1117?style=for-the-badge&logo=react&logoColor=00D9FF" alt="learn-reactjs" />
+    <img src="https://img.shields.io/badge/learn--reactjs-0D1117?style=for-the-badge&logo=react&logoColor=00D9FF" alt="learn-reactjs" />
   </a>
-  &nbsp;
+</p>
+
+<p align="center">
   <a href="https://github.com/pdong15dth/training-center">
-    <img src="https://img.shields.io/badge/🎓%20training--center-0D1117?style=for-the-badge&logo=css3&logoColor=00D9FF" alt="training-center" />
+    <img src="https://img.shields.io/badge/training--center-0D1117?style=for-the-badge&logo=css3&logoColor=00D9FF" alt="training-center" />
   </a>
 </p>
 
@@ -76,6 +82,7 @@ Flutter Developer @ **Dev Den** · Vietnam 🇻🇳. I care about clean architec
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+*No recent activity yet. Run the [Update Recent Activity](.github/workflows/recent-activity.yml) workflow to populate this section.*
 <!--END_SECTION:activity-->
 
 <br/>
@@ -88,11 +95,11 @@ Flutter Developer @ **Dev Den** · Vietnam 🇻🇳. I care about clean architec
 
 <p align="center">
   <a href="https://github.com/pdong15dth">
-    <img src="https://img.shields.io/badge/GitHub-%230D1117.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://phamdongit.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-%230D1117.svg?style=for-the-badge&logo=google-chrome&logoColor=00D9FF" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00D9FF" alt="Portfolio" />
   </a>
 </p>
 
