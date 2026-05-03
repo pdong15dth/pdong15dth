@@ -38,7 +38,7 @@ Flutter Developer @ **Dev Den** · Vietnam 🇻🇳. I care about clean architec
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,html,css,tailwind,git,github,vscode,androidstudio,figma&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,html,css,tailwind,git,github,vscode,androidstudio,figma&perline=13" alt="Tech Stack" />
 </p>
 
 <br/>
