@@ -19,10 +19,6 @@
 
 ## 👋 Hey, I'm Phạm Hoàng Đông
 
-> *I build mobile apps that (usually) don't crash.*
-
-Flutter Developer @ **Dev Den** · Vietnam 🇻🇳. I care about clean architecture, smooth animations, and the sacred art of hot reload.
-
 <br/>
 
 ---
