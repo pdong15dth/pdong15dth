@@ -23,12 +23,6 @@
 
 Flutter Developer @ **Dev Den** · Vietnam 🇻🇳. I care about clean architecture, smooth animations, and the sacred art of hot reload.
 
-- 🔭 &nbsp;Maintaining [**flutter_base_mvvm**](https://github.com/pdong15dth/flutter_base_mvvm) — a clean architecture starter kit
-- 🌱 &nbsp;Currently learning **ReactJS** and the modern web stack
-- 🧠 &nbsp;Into **MVVM**, **Solid Principles**, and widgets that don't rebuild for no reason
-- ⚡ &nbsp;Fun fact: I have 26 repos. I've definitely forgotten what at least 3 of them do.
-- ☕ &nbsp;Powered by black coffee and `flutter run`
-
 <br/>
 
 ---
